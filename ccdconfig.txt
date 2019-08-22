@@ -1,0 +1,4 @@
+setpoint=-6
+exposureTime=1
+width_in_pixels=512
+height_in_pixels=512
